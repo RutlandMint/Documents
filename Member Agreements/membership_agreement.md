@@ -25,7 +25,11 @@ The terms set forth in this agreement express Greater Rutland Makerspace and Mem
 1. **Intellectual Property:** Member acknowledges that it is his, her or its own obligation to seek protection for any intellectual property and/or confidential or proprietary information created through the use of the Facilities. Member shall not use the Facilities for any inappropriate or unlawful activity including obscenity and the unlicensed use of material protected by intellectual property laws. 
 
 
+1. **Privacy:** Member shall have no expectation of privacy in the Facilities. Member shall have no expectation of privacy on GRMS computer equipment, computer networks or while using the GRMS Internet connection.
+
+
 1. **Fees:** Member agrees to pay the monthly fees in the amount, form and manner detailed in the Membership Addendum (the "Fees"). In addition, Member shall pay all reasonable third party fees (attorney's fees, debt collection fee, fees for repair of damage to GRMS tools due to excessive or improper usage specifically included) and other costs incurred by the Company in connection with any late payments or past due amounts. 
+
 
 1. **Partial Invalidity:** If any one or more of the provisions of this Agreement shall be invalid or unenforceable, the remainder of this Agreement shall not be affected, and each remaining provision shall be valid and enforceable to the fullest extent permitted by law. 
 
