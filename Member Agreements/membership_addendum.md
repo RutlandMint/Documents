@@ -6,9 +6,7 @@ Prospective members wishing to purchase a studio or storage membership must also
 
 If this Membership Addendum is amended by mutual agreement of GRMS and the undersigned member, the latest Membership Addendum, as amended, shall prevail over any previously-executed Membership Addenda. Notwithstanding the foregoing, GRMS reserves the right to amend the terms and conditions of this Membership Addendum from time to time without the consent of any member; the Membership Addendum, as so amended, shall prevail over any previously-executed Membership Addenda. GRMS also reserves the right to enter studio or storage space reserved for a member's use at any time and for any reason.
 
-1. Current Pricing and Schedule (please check desired membership type).
-
- Membership Type:
+1. Current Pricing and Schedule (please check desired membership type):
 
  [ ] Studio: 24/7 key card access. $200/month. Includes reservation of 80 sq ft. of space for your use in our facility.
 
