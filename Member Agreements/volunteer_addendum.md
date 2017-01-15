@@ -9,9 +9,13 @@ This addendum applies only to members seeking to obtain a discounted rate by vol
   
   a. Volunteer members must obey all rules, regulations and policies as outlined in the membership agreements, member policies, volunteer handbook and volunteer policies and procedures.
   
+1. **Volunteer Benefits:**
+
+  a. Volunteer receives a reduction membership rates, specified in the Membership Addendum.
+  
 1. **Termination of Volunteer Status and Reduction of Benefits:**
   
-  a. If the Member does not complete at least 12 hours of volunteer time in any month, they will owe the difference in cost (an additional 50% of the selected membership tier) will be added to their account and due with the following month's payment.  
+  a. If the Member does not complete at least 12 hours of volunteer time in any month, the difference in cost from the non-volunteer rate will be added to their account and due with the following month's payment.  
 
   a. If the member fails to complete at least 12 hours of volunteer time for three consecutive months, they will be moved to the appropriate full cost membership tier at the next billing cycle.
   
