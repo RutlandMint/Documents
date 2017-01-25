@@ -2,7 +2,7 @@
 
 The Greater Rutland Makerspace ("GRMS") is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of people at our events or space in any form.
 
-All members are expected to be aware of federal safety and harassment-free workplace guidelines, which are posted in the lounge area.
+All members are expected to be aware of federal safety and harassment-free workplace guidelines, which are posted on location.
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, and sexual images in public spaces as well as deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
