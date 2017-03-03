@@ -2,12 +2,12 @@
 
 ## The Membership Agreement
 
-* **Membership Agreement** General agreement between member & GRMS
- * **Membership Addendum** Level of membership, access, and payment agreement.
- * **Waiver and Release of Liability**
- * **Harassment Policy**
+* :white_check_mark: **Membership Agreement** General agreement between member & GRMS
+ * :white_check_mark: **Membership Addendum** Level of membership, access, and payment agreement.
+ * :white_check_mark: **Waiver and Release of Liability**
+ * :white_check_mark: **Harassment Policy**
  * *Optional* **Studio Member Addendum** For people who purchase studio space
- * *Optional* **Volunteer Adendum** For people who volunteer at GRMS
+ * :white_check_mark: *Optional* **Volunteer Adendum** For people who volunteer at GRMS
  
 ## Policies & Procedures
 
