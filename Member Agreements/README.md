@@ -13,3 +13,7 @@
 
 * **General Policies & Procedures** governing all members and GRMS activities.
 * **Volunteer Policies & Procedures** for volunteers to follow.
+* **General Shop Procedures**
+ * Woodshop Procedures
+ * Metal shop procedures
+ * etc...
