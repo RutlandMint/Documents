@@ -12,7 +12,7 @@
 ## Policies & Procedures
 
 * **General Policies & Procedures** governing all members and GRMS activities.
-* **General Shop Procedures**
+* **Shop / Equipment Policies & Procedures**
  * Woodshop
  * Metal shop
  * Prototyping
