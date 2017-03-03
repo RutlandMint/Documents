@@ -12,8 +12,12 @@
 ## Policies & Procedures
 
 * **General Policies & Procedures** governing all members and GRMS activities.
-* **Volunteer Policies & Procedures** for volunteers to follow.
 * **General Shop Procedures**
- * Woodshop Procedures
- * Metal shop procedures
- * etc...
+ * Woodshop
+ * Metal shop
+ * Prototyping
+ * Electronics
+* **Volunteer Policies & Procedures** for volunteers to follow.
+* **Members Under 18**
+* **After-hours Access Policies**
+* **Computer and Internet Acceptable Use Policy**
