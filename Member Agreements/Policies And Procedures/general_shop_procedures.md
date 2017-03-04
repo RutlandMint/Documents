@@ -32,7 +32,7 @@ The operation of machinery is at your own risk. **It is your responsibility to k
 
 ## Broken, Damaged or Unsafe Equipment
 
-Do not use broken, damaged or unsafe equipment, or equipment that is marked as such with a note, a lockout, or another method. If you find that anything is broken, damaged or unsafe you must report it to the staff. If a staff person is not immediately available, leave the item behind the welcome desk, or affix a note to the item if it is large or immobile, in addition to notifying the staff.
+Do not use broken, damaged or unsafe equipment, or equipment that is marked as such with a note, a lockout, or another method. If you find that anything is broken, damaged or unsafe you must report it to the staff. If a staff person is not immediately available, affix a note to the item and leave it behind the welcome desk. If it is large or immobile, affix a note to the item and leave a note at the welcome desk.
 
 ## Consumables
 
