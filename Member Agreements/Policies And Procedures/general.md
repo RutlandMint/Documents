@@ -24,7 +24,7 @@ Food may not be stored in individual or shared spaces, and will be discarded. Fo
 
 ## Visitors & Guests
 
-TODO
+Visitors & guests are not permitted to enter the Makerspace when there is not a volunteer or staff person present. Visitors & guests must sign a Waiver and Release of Liability before entering past the front desk. Visitors & guests may not use any equipment, hardware or tools except as part of a class approved by a director.
 
 ## Emergencies
 
