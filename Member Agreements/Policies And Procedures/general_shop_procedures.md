@@ -2,11 +2,7 @@
 
 This document describes the general policies & procedures for using the various shop areas at the Makerspace.
 
-The following documents include specific policies & procedures you must be familiar with before using a particular area of the Makerspace:
-
-* TODO Links to each of these as they are created.
-* Wood Shop Procedures
-* Metal Shop Procedures
+Some shops, areas or equipment may have specific policies & procedures you must be familiar with before using them. These will be made available.
 
 ## Shared Saftey
 
