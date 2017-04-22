@@ -13,7 +13,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
  **Basic Membership:** Access to the Makerspace and use of shops and equipment during open hours. Member rates for classes & workshops.
  
- [ ] $50/month
+ ☐ $50/month
  
  [ ] $550/year
  
