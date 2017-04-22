@@ -39,7 +39,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
 **Business Membership Named Member:**
 
- ☐ This member is a named member under business member listed as payor, and is not individualy charged.
+ ☐ This member is named under the business member listed as payor, and is not individualy charged.
  
 ### Storage & Dedicated Workspace
 
