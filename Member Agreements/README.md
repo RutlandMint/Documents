@@ -14,7 +14,7 @@
 * Policies & Procedures
   * **General Policies & Procedures**
     * **Under 18 Policies** :pencil2: :grey_question:
-    * **Internet Usage Policy**
+    * **Internet Usage Policy** :o:
   * **Shop Policies & Procedures**
   * **Volunteer Procedures** :o:
   * **After Hours Policy & Procedures** :o:
