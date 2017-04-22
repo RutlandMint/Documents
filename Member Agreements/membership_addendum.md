@@ -47,7 +47,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
 * Under no circumstances may a member attempt to sublet, assign or otherwise permit a third party to occupy any storage or dedicated workspace.
 
-* Members seeking to modify the layout or function of any storage or dedicated workspace for their use must obtain the written approval of the Executive Director, prior to making to such modification. A studio member who modifies the layout or function of his, her or its assigned studio space in violation of this paragraph will be required to pay the costs of restoring the studio to its original condition. Notwithstanding anything to the contrary in this Membership Addendum, the phrase "modify the layout or function" is to be construed in the broadest sense possible. 
+* Members seeking to modify the layout or function of their storage or dedicated workspace must obtain the prior written approval of the Director. Members may be required to pay the costs of restoring storage or dedicated workspace to it's original condition.
 
  ☐ 8'x10' sudio space. $100/month ☐ Desk-style work bench. $100/month
  
