@@ -33,7 +33,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
  ☐ 3-5 named members. $1,600/year  ☐ 6-9 named members. $3,000/year
 
-**After-Hours Business Membership:** 24 hour access to the Makerspace and use of shops and equipment during open hours
+**After-Hours Business Membership:** 24 hour access to the Makerspace and use of shops and equipment.
 
  ☐ 3-5 named members. $2,400/year  ☐ 6-9 named members. $4,500/year
  
