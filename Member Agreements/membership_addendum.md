@@ -42,11 +42,4 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  [ ] Storage Space
  
  [ ] Floor Space
- 
-
-### Payment. All membership fees must be paid according to the following terms: 
-
- * Membership dues are paid monthly.  Choose to pay for the entire year and get a discount (pay 11 months, and get a 12 month membership).
-
- * Late fees, in the amount of 5% of the monthly fees due, will be charged 5 days after the payment due date. As GRMS has the right to terminate your membership at any time, your membership may be terminated if your membership fees remain unpaid for more than 15 days after the due date.
 
