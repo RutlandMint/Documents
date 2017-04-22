@@ -1,5 +1,3 @@
-# GRMS MEMBERSHIP AGREEMENT 
-
 ##Studio Member Addendum
 
 The following terms and conditions apply solely to studio members or prospective studio members: 
