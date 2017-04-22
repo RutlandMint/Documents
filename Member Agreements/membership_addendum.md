@@ -17,7 +17,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
  ☐ $100/month  ☐ $1100/year  ☐ This member is named under the family member listed as payor, and is not individualy charged.
 
- **After-Hours:** All the benefits of General Membership, plus after-hours keyed access.
+ **After-Hours:** 24 hour access to the Makerspace, plus all the benefits of Basic Membership.
  
  ☐ $75/month   ☐ $825/year
 
