@@ -4,7 +4,7 @@
 
 
 * The Membership Agreement
-  * **Membership Agreement** :pencil2: *General agreement between member & GRMS *
+  * **Membership Agreement** :pencil2: *General agreement between member & GRMS*
   * **Emergency Contact**
   * **Waiver** :pencil2:
     * **Under 18** :pencil2: :grey_question:
