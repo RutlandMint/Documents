@@ -1,4 +1,4 @@
-# GREATER RUTLAND MAKERSPACE MEMBERSHIP AGREEMENT
+MEMBERSHIP AGREEMENT
 
 The terms set forth in this agreement express Greater Rutland Makerspace and Member's mutual interest in fostering and maintaining a welcoming, safe, and productive working environment for all of its members. This Membership Agreement (the "Agreement") is by and between Rutland Makers, Inc., a Vermont nonprofit corporation doing business as Greater Rutland Makerspace (herein referred to as "GRMS", "Makerspace" or "Company"), and the individual or entity identified on the signature page of this agreement (herein referred to as "Member"). This Agreement sets forth the terms and conditions governing the Member's access and use of the shared GRMS fabrication facilities, including equipment leased or owned by GRMS, located at 112 Quality Lane, Rutland VT (the "Facilities"). The Company and Member agree as follows: 
 
