@@ -21,7 +21,6 @@
 ## Key
 * :pencil2: - Must be signed
 * :grey_question: - Not required for everyone
-* :white_check_mark:  - Complete
 * :o: - Not done yet
 * :heavy_exclamation_mark: - Must be finished
 * :page_facing_up: - Paper copy retained in Member folder
