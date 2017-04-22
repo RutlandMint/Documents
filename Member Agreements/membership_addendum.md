@@ -23,7 +23,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
  [ ] $1100/year
 
- [ ] **After-Hours:** All the benefits of General Membership, plus after-hours keyed access.
+ **After-Hours:** All the benefits of General Membership, plus after-hours keyed access.
  
  [ ] $75/month
  
