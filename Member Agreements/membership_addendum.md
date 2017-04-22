@@ -15,7 +15,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
  ☐ $50/month
  
- [ ] $550/year
+ ☐ $550/year
  
  **Family Membership:** Access to the Makerspace and use of shops and equipment open hours for one or two adults, and their children. Member rates for classes & workshops.
  
