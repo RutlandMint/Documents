@@ -12,21 +12,15 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
  **Basic Membership:** Access to the Makerspace and use of shops and equipment during open hours. Member rates for classes & workshops.
  
- ☐ $50/month
- 
- ☐ $550/year
+ ☐ $50/month  ☐ $550/year
  
  **Family Membership:** Access to the Makerspace and use of shops and equipment open hours for one or two adults, and their children. Member rates for classes & workshops.
  
- ☐ $100/month
- 
- ☐ $1100/year
+ ☐ $100/month  ☐ $1100/year
 
  **After-Hours:** All the benefits of General Membership, plus after-hours keyed access.
  
- ☐ $75/month
- 
- ☐ $825/year
+ ☐ $75/month   ☐ $825/year
 
 **Associate:** Pay-by-the-day use of shops and equipment during open hours.
 
@@ -40,21 +34,15 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
 **Business Membership:** Access to the Makerspace and use of shops and equipment during open hours.
 
- ☐ 3-5 named members. $1,600/year
-
- ☐ 6-9 named members. $3,000/year
+ ☐ 3-5 named members. $1,600/year  ☐ 6-9 named members. $3,000/year
 
 **After-Hours Business Membership:** 24 hour access to the Makerspace and use of shops and equipment during open hours
 
- ☐ 3-5 named members. $2,400/year
-
- ☐ 6-9 named members. $4,500/year
+ ☐ 3-5 named members. $2,400/year  ☐ 6-9 named members. $4,500/year
  
 **Business Membership Named Member:**
 
  ☐ This member is a named member under the following business, and is not individualy charged.
- 
- Business Name:
 
  ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ 
  
@@ -75,10 +63,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
  ☐ Desk-style work bench. $100/month
  
- ☐ Storage Space.
- 
- ☐ Floor Space.
- 
+ ☐ Other
  
  
 Print Member Name:
