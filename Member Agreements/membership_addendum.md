@@ -2,8 +2,6 @@
 
 Membership at The Greater Rutland Makerspace ("GRMS") permits you to access our facilities at 112 Quality Lane, Rutland VT, during the hours listed below. This schedule is subject to change, depending on the needs of our community. Both individuals and early-stage start-ups are eligible to purchase memberships at GRMS.
 
-Prospective members wishing to purchase a studio or storage membership must also purchase a general membership to GRMS. In the event that studio or storage memberships are currently unavailable, you may sign up for our waiting list.
-
 If this Membership Addendum is amended by mutual agreement of GRMS and the undersigned member, the latest Membership Addendum, as amended, shall prevail over any previously-executed Membership Addenda. Notwithstanding the foregoing, GRMS reserves the right to amend the terms and conditions of this Membership Addendum from time to time without the consent of any member; the Membership Addendum, as so amended, shall prevail over any previously-executed Membership Addenda. GRMS also reserves the right to enter studio or storage space reserved for a member's use at any time and for any reason.
 
 
@@ -54,7 +52,9 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
 ### Storage & Dedicated Workspace
 
-* All prospective users of storage & dedicated workspace will be subject to a screening process to determine compatibility with GRMS's community goals.
+* All prospective users of storage & dedicated workspace must be GRMS members, and will be subject to a screening process to determine compatibility with GRMS's community goals.
+
+* In the event that studio or storage memberships are currently unavailable, you may sign up for our waiting list.
 
 * Under no circumstances may a member attempt to sublet, assign or otherwise permit a third party to occupy any storage or dedicated workspace.
 
