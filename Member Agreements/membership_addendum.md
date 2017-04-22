@@ -1,14 +1,13 @@
 ## MEMBERSHIP ADDENDUM
 
-Membership at The Greater Rutland Makerspace ("GRMS") permits you to access our facilities at 112 Quality Lane, Rutland VT, during the hours listed below. This schedule is subject to change, depending on the needs of our community. Both individuals and early-stage start-ups are eligible to purchase memberships at GRMS.
+Membership at The Greater Rutland Makerspace ("GRMS") permits you to access our facilities at 112 Quality Lane, Rutland VT, during the hours listed below. This schedule is subject to change, depending on the needs of our community.
+
+All prospective after-hours members will be subject to a screening process to determine compatibility with GRMS's community goals.
 
 If this Membership Addendum is amended by mutual agreement of GRMS and the undersigned member, the latest Membership Addendum, as amended, shall prevail over any previously-executed Membership Addenda. Notwithstanding the foregoing, GRMS reserves the right to amend the terms and conditions of this Membership Addendum from time to time without the consent of any member; the Membership Addendum, as so amended, shall prevail over any previously-executed Membership Addenda. GRMS also reserves the right to enter studio or storage space reserved for a member's use at any time and for any reason.
 
 
 ### Maker Memberships
-
-* All prospective after-hours members will be subject to a screening process to determine compatibility with GRMS's community goals.
-
 
  **Basic Membership:** Access to the Makerspace and use of shops and equipment during open hours. Member rates for classes & workshops.
  
@@ -30,8 +29,6 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
 * If business member undergoes a change in control (in which more than one-half of the interest in the entity is sold or transferred to a third party), the business member must notify GRMS and request permission to continue membership & use of any storage or dedicated workspace, which may be granted in GRMS's sole discretion.
 
-* All prospective after-hours members will be subject to a screening process to determine compatibility with GRMS's community goals.
-
 **Business Membership:** Access to the Makerspace and use of shops and equipment during open hours.
 
  ☐ 3-5 named members. $1,600/year  ☐ 6-9 named members. $3,000/year
@@ -48,14 +45,11 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
 ### Storage & Dedicated Workspace
 
-* All prospective users of storage & dedicated workspace must be GRMS members, and will be subject to a screening process to determine compatibility with GRMS's community goals.
-
-* In the event that studio or storage memberships are currently unavailable, you may sign up for our waiting list.
+* All prospective users of storage & dedicated workspace must be GRMS members.
 
 * Under no circumstances may a member attempt to sublet, assign or otherwise permit a third party to occupy any storage or dedicated workspace.
 
-* Members seeking to modify the layout or function of any storage or dedicated workspace for their use must obtain the written approval of the Executive Director, prior to making to such modification. As a general principle, assume that any changes that cannot be undone by the ordinary efforts of GRMS staff or volunteers using a broom, dustpan and mop in a single afternoon are changes that must be approved in advance. A studio member who modifies the layout or function of his, her or its assigned studio space in violation of this paragraph will be required to pay the costs of restoring the studio to its original condition. Notwithstanding anything to the contrary in this Membership Addendum, the phrase "modify the layout or function" is to be construed in the broadest sense possible. 
-
+* Members seeking to modify the layout or function of any storage or dedicated workspace for their use must obtain the written approval of the Executive Director, prior to making to such modification. A studio member who modifies the layout or function of his, her or its assigned studio space in violation of this paragraph will be required to pay the costs of restoring the studio to its original condition. Notwithstanding anything to the contrary in this Membership Addendum, the phrase "modify the layout or function" is to be construed in the broadest sense possible. 
 
  ☐ Locker. $20/month.
  
@@ -71,9 +65,7 @@ Print Member Name:
  ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ 
  
 
-I understand and agree that I am financially responsible for payment of all services received in the amounts stated above.
-I agree to pay that total in full on the first of each month or year as stated above. I understand that any remaining balance not paid in full
-may accrue additional fees as stated in the Membership Agreement.
+I understand and agree that I am financially responsible for payment of all services received in the amounts stated above. I agree to pay that total in full on the first of each month or year as stated above. I understand that any remaining balance not paid in full may accrue additional fees as stated in the Membership Agreement.
 
 
  Date Signed:
