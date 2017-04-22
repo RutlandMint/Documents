@@ -1,4 +1,4 @@
-##Studio Member Addendum
+## Studio Member Addendum
 
 The following terms and conditions apply solely to studio members or prospective studio members: 
 
