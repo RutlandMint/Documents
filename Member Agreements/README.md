@@ -9,8 +9,7 @@
   * **Waiver** :pencil2:
     * **Under 18** :pencil2: :grey_question: :o:
   * **Volunteer** :pencil2: :grey_question:
-  * **Studio Rental Addendum** :pencil2: :grey_question: *For people who purchase studio space*
-  * **Membership Addendum** :pencil2: *Level of membership, access, and payment agreement.*
+  * **Membership Addendum** :pencil2: *Level of membership, access, space, and payment agreement.*
 * Policies & Procedures
   * **General Policies & Procedures**
     * **Under 18 Policies** :pencil2: :grey_question:
