@@ -4,7 +4,7 @@ The following terms and conditions apply solely to studio members or prospective
 
 * Upon signing this Membership Addendum, prospective studio members will be required to submit a $190 damage deposit. 
 
-* All prospective studio members will be subject to a screening process to determine compatibility with GRMS's community goals and must complete a safety orientation before being permitted to use any studio space. GRMS will refund studio fees and the damage deposit to the prospective member if GRMS's staff ultimately determines that the prospective member will not be a good fit as a studio member. 
+* All prospective studio members will be subject to a screening process to determine compatibility with GRMS's community goals and must complete a safety orientation before being permitted to use any studio space. GRMS will refund unused studio fees and the damage deposit to the prospective member if GRMS's staff ultimately determines that the prospective member will not be a good fit as a studio member. 
 
 * Under no circumstances may a studio member attempt to sublet, assign or otherwise permit a third party to occupy any GRMS studio space. If an entity member undergoes a change in control (in which more than one-half of the interest in the entity is sold or transferred to a third party), the entity member must notify GRMS and request permission to continue use of the studio space, which may be granted in GRMS's sole discretion.
  
