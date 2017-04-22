@@ -11,6 +11,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
 * All prospective after-hours members will be subject to a screening process to determine compatibility with GRMS's community goals.
 
+
  **Basic Membership:** Access to the Makerspace and use of shops and equipment during open hours. Member rates for classes & workshops.
  
  ☐ $50/month
@@ -58,6 +59,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 * Under no circumstances may a member attempt to sublet, assign or otherwise permit a third party to occupy any storage or dedicated workspace.
 
 * Members seeking to modify the layout or function of any storage or dedicated workspace for their use must obtain the written approval of the Executive Director, prior to making to such modification. As a general principle, assume that any changes that cannot be undone by the ordinary efforts of GRMS staff or volunteers using a broom, dustpan and mop in a single afternoon are changes that must be approved in advance. A studio member who modifies the layout or function of his, her or its assigned studio space in violation of this paragraph will be required to pay the costs of restoring the studio to its original condition. Notwithstanding anything to the contrary in this Membership Addendum, the phrase "modify the layout or function" is to be construed in the broadest sense possible. 
+
 
  [ ] Locker. $20/month.
  
