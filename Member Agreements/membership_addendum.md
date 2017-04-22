@@ -6,9 +6,8 @@ Prospective members wishing to purchase a studio or storage membership must also
 
 If this Membership Addendum is amended by mutual agreement of GRMS and the undersigned member, the latest Membership Addendum, as amended, shall prevail over any previously-executed Membership Addenda. Notwithstanding the foregoing, GRMS reserves the right to amend the terms and conditions of this Membership Addendum from time to time without the consent of any member; the Membership Addendum, as so amended, shall prevail over any previously-executed Membership Addenda. GRMS also reserves the right to enter studio or storage space reserved for a member's use at any time and for any reason.
 
-### Current Pricing and Schedule
 
-#### Maker Memberships
+### Maker Memberships
 
  [ ] **Basic Membership:** Access to the Makerspace and use of shops and equipment during open hours. Member rates for classes & workshops.
  
@@ -18,7 +17,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
  [ ] **Associate:** Pay-by-the-day use of shops and equipment during open hours. $25/initiation fee + $25 per visit.
 
-#### Business Memberships
+### Business Memberships
 
 **Business Membership:** Access to the Makerspace and use of shops and equipment during open hours.
 
@@ -31,6 +30,18 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  [ ] 3-5 named members.
 
  [ ]  6-9 named members.
+ 
+### Storage & Workspace
+
+ [ ] Locker
+ 
+ [ ] 8'x10' Studio Space
+ 
+ [ ] Desk-style work space
+ 
+ [ ] Storage Space
+ 
+ [ ] Floor Space
  
 
 ### Payment. All membership fees must be paid according to the following terms: 
