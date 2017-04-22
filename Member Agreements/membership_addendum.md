@@ -39,9 +39,7 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
  
 **Business Membership Named Member:**
 
- ☐ This member is a named member under the following business, and is not individualy charged.
-
- ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ 
+ ☐ This member is a named member under business member listed as payor, and is not individualy charged.
  
 ### Storage & Dedicated Workspace
 
@@ -51,13 +49,9 @@ If this Membership Addendum is amended by mutual agreement of GRMS and the under
 
 * Members seeking to modify the layout or function of any storage or dedicated workspace for their use must obtain the written approval of the Executive Director, prior to making to such modification. A studio member who modifies the layout or function of his, her or its assigned studio space in violation of this paragraph will be required to pay the costs of restoring the studio to its original condition. Notwithstanding anything to the contrary in this Membership Addendum, the phrase "modify the layout or function" is to be construed in the broadest sense possible. 
 
- ☐ Locker. $20/month.
+ ☐ 8'x10' sudio space. $100/month ☐ Desk-style work bench. $100/month
  
- ☐ 8'x10' sudio space. $100/month
- 
- ☐ Desk-style work bench. $100/month
- 
- ☐ Other
+ ☐ Locker. $20/month. ☐ Other:
  
  
 Print Member Name:
@@ -65,7 +59,7 @@ Print Member Name:
  ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ 
  
 
-I understand and agree that I am financially responsible for payment of all services received in the amounts stated above. I agree to pay that total in full on the first of each month or year as stated above. I understand that any remaining balance not paid in full may accrue additional fees as stated in the Membership Agreement.
+I understand and agree that I am financially responsible for payment for all services received in the amounts stated above, and any other fees incured by the member named above. I agree to pay that total in full on the first of each month or year as stated above. I understand that any remaining balance not paid in full may accrue additional fees as stated in the Membership Agreement.
 
 
  Date Signed:
